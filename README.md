@@ -1,1 +1,2 @@
 # DAA-Project
+A* algorithm
